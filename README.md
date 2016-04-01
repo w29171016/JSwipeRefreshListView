@@ -1,0 +1,3 @@
+# JSwipeRefreshListView
+根据谷歌提供的SwipeRefreshLayout来进行扩展
+支持上拉加载更多 等等
