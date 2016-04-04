@@ -1,4 +1,4 @@
-package com.janedler.view;
+package com.janedler.interfaces;
 
 /**
  * Created by dell on 2016/3/31.
@@ -16,5 +16,9 @@ public interface IPullUpStates {
     public int PULL_UP_OVER = 4;  //加载完毕
 
     public int PULL_UP_ONLY_DOWN = 5;  //不允许上拉刷新
+
+    public int SCROLL_BOTTOM = 6; //滑到了底部
+
+    public int SCROLL_LOADING = 7; //滑到了底部
 
 }

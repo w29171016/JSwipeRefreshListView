@@ -1,4 +1,4 @@
-package com.janedler.view;
+package com.janedler.interfaces;
 
 
 public interface MODE {
