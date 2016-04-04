@@ -11,25 +11,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a375d673-58c5-4063-ab2e-c458984b5a5f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/test/AutoListViewActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/controller/IFooterAutoController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/controller/IFooterController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/controller/IFooterManualController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshAutoListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshBaseListView.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/log/JSwipeRefreshLog.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshManualListView.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/test/ManualListViewActivity.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/util/MeasureUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/exception/SwipeRefreshException.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_auto_listview_layout.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_manual_listview_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/ui_footer_auto_layout.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/ui_footer_manual_layout.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/ui_swipe_default_listview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/exception/ErrorMethodException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshListView.java" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/ui_footer_layout.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/exception/ErrorMethodException.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/exception/SwipeRefreshException.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/IPullUpStates.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/interfaces/IPullUpStates.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JOnScrollListener.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/listener/JOnScrollListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshListView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshBaseListView.java" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/view/MODE.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/interfaces/MODE.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/janedler/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/janedler/MainActivity.java" />
@@ -54,10 +76,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JSwipeRefreshBaseListView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JSwipeRefreshBaseListView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshBaseListView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.3211007">
+            <state vertical-scroll-proportion="0.0">
               <caret line="294" column="64" selection-start-line="294" selection-start-column="57" selection-end-line="294" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -96,6 +118,16 @@
                 <element signature="e#8168#8169#0" expanded="true" />
                 <element signature="e#8201#8202#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IPullUpStates.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/interfaces/IPullUpStates.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.14941022">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2317,7 +2349,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="25" width="1859" height="1177" extended-state="6" />
+    <frame x="62" y="25" width="1859" height="1177" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2814,14 +2846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/interfaces/IPullUpStates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17431192">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshManualListView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.259259">
@@ -2878,7 +2902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/view/JSwipeRefreshBaseListView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.3211007">
+        <state vertical-scroll-proportion="0.0">
           <caret line="294" column="64" selection-start-line="294" selection-start-column="57" selection-end-line="294" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2895,6 +2919,14 @@
             <element signature="e#11146#11909#0" expanded="true" />
             <element signature="e#11908#11909#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/janedler/interfaces/IPullUpStates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14941022">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
