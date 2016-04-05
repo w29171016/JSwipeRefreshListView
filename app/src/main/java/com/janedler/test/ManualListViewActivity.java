@@ -96,8 +96,7 @@ public class ManualListViewActivity extends AppCompatActivity {
                             mAdapter.addList(list);
                             mSwipeRefreshLayout.pullUpSuccess();
                         } else {
-                            int rans =  0;
-//                                    new Random().nextInt(2);
+                            int rans =  new Random().nextInt(2);
                             Log.e("TAG","rans>>"+rans);
                             if (rans == 0) {
                                 Log.e("TAG","没有更多的数据了");

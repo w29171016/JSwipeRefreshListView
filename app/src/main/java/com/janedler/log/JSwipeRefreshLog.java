@@ -17,10 +17,7 @@ public class JSwipeRefreshLog {
     /**
      * Turn on/off for Log
      */
-    private static final boolean IS_LOG_ON;
-    static {
-        IS_LOG_ON = (boolean) getBuildConfigValue("DEBUG");
-    }
+    private static final boolean IS_LOG_ON = false;
 
     /**
      * Priority constant for the println method; use EMLog.v.
@@ -235,25 +232,4 @@ public class JSwipeRefreshLog {
         }
     }
 
-    /**
-     * Gets a field from the project's BuildConfig. This is useful when, for example, flavors
-     * are used at the project level to set custom fields.
-     *
-     * @param fieldName The name of the field-to-access
-     * @return The value of the field, or {@code null} if the field is not found.
-     */
-    public static Object getBuildConfigValue(String fieldName) {
-        try {
-            Class<?> clazz = Class.forName("com.eastmoney.android.berlin.BuildConfig");
-            java.lang.reflect.Field field = clazz.getField(fieldName);
-            return field.get(null);
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        } catch (NoSuchFieldException e) {
-            e.printStackTrace();
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        }
-        return false;
-    }
 }
